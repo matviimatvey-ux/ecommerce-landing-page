@@ -1,0 +1,31 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+    <!-- Gradient tanımı -->
+    <defs>
+        <linearGradient id="logoGradient" x1="0" y1="1" x2="0" y2="0">
+            <stop offset="0%" stop-color="#ff9ad5"/>
+            <stop offset="100%" stop-color="#b46dff"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Sol parça -->
+    <rect
+            x="60"
+            y="90"
+            width="70"
+            height="140"
+            rx="16"
+            fill="url(#logoGradient)"
+            transform="skewY(-8)"
+    />
+
+    <!-- Sağ parça -->
+    <rect
+            x="140"
+            y="40"
+            width="70"
+            height="190"
+            rx="16"
+            fill="url(#logoGradient)"
+            transform="skewY(-8)"
+    />
+</svg>
