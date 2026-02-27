@@ -6,7 +6,7 @@ Live Demo
 
 
 
-👉 https://matviimatvey-ux.github.io/web001/
+👉 [https://matviimatvey-ux.github.io/web001/](https://matviimatvey-ux.github.io/ecommerce-landing-page/)
 
 Tech Stack
 
